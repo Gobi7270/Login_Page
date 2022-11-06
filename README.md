@@ -1,2 +1,2 @@
-# Login_Page
-Simple Login Page
+# Sign Up_Page
+Simple Sign Up Page
